@@ -8,6 +8,8 @@ src/strategies/__pycache__/
 *.pyc
 .env
 update.sh
+.config.json.swo
+.config.json.swp
 
 *yarn.lock
 
