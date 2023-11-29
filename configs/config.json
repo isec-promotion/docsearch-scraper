@@ -1,5 +1,8 @@
 {
   "index_name": "sample001",
+  "start_urls": [
+    { "url": "https://isecj.jp/manual/", "tags": ["docusaurus_tag"] }
+  ],
   "sitemap_urls": ["https://isecj.jp/manual/sitemap.xml"],
   "stop_urls": [],
   "selectors": {
